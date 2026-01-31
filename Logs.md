@@ -15,3 +15,9 @@
 - Compared offensive vs defensive security responsibilities
 - Saved completion screenshot and room notes to repo
 - Initialized cybersecurity portfolio repository
+
+## 2026-01-31
+- Completed TryHackMe: Careers in Cyber
+- Learned about cybersecurity roles and entry-level paths
+- Completed Module 1 of Pre Security
+- Added room notes and updated repo
