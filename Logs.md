@@ -18,6 +18,8 @@
 
 ## 2026-01-31
 - Completed TryHackMe: Careers in Cyber
-- Learned about cybersecurity roles and entry-level paths
-- Completed Module 1 of Pre Security
+- Completed TryHackMe: What is Networking?
+- Finished Module 1 of Pre Security
+- Started Module 2: Network Fundamentals
 - Added room notes and updated repo
+
