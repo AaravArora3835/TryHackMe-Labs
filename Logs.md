@@ -23,3 +23,9 @@
 - Started Module 2: Network Fundamentals
 - Added room notes and updated repo
 
+## 2026-02-01
+- Completed TryHackMe: Intro to LAN
+- Continued Module 2: Network Fundamentals
+- Learned basic LAN components and communication
+- Added room notes
+
