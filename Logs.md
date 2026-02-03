@@ -29,3 +29,9 @@
 - Learned basic LAN components and communication
 - Added room notes
 
+## 2026-02-02
+- Completed TryHackMe Room06: OSI Model
+- Added room notes file
+- Pushed changes to GitHub
+
+
