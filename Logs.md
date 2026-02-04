@@ -34,4 +34,9 @@
 - Added room notes file
 - Pushed changes to GitHub
 
+## 2026-02-03
+- Completed TryHackMe Room07: Packets & Frames
+- Added room notes file
+- Pushed changes to GitHub
+
 
