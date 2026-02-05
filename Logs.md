@@ -38,5 +38,8 @@
 - Completed TryHackMe Room07: Packets & Frames
 - Added room notes file
 - Pushed changes to GitHub
-
-
+-
+- ## 2026-02-04
+- Completed TryHackMe Room08: Extending Your Network
+- Added room notes file
+- Pushed changes to GitHub
