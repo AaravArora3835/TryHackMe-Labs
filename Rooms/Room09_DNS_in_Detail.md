@@ -16,6 +16,8 @@
 <img width="1078" height="548" alt="image" src="https://github.com/user-attachments/assets/299318a0-51d3-4154-9ae4-d1a9071feb95" />
 - DNS can also be used for records. A record is ipv4, AAAA record is ipv6, CNAME record is when a domain name you type leads you to somwhere else but you use that domain name, MX Record used for emails and like a backup server, TXT records are for free text fields where any text based data can be stored
 
+## Evidence
+- `2026-02-05_THM_Room09_DNS_in_Detail_Completed.png`
 
 ## One takeaway
 - Honestly the TLD and Second level domain and tghe sub domain which are all parts of a dns was the biggest takeaway for me
