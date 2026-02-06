@@ -1,12 +1,12 @@
-## Week 1 — 2026-01-29 to 2026-02-05
+# Week 1 — 2026-01-29 to 2026-02-05
 
-# **Rooms Completed:**
-**Module 1 — Introduction**
+## **Rooms Completed:**
+### **Module 1 — Introduction**
 - Offensive Security Intro
 - Defensive Security Intro
 - Careers in Cyber
 
-# **Module 2 — Network Fundamentals**
+### **Module 2 — Network Fundamentals**
 - What is Networking?
 - Intro to LAN
 - OSI Model
