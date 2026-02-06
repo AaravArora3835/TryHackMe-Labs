@@ -39,7 +39,13 @@
 - Added room notes file
 - Pushed changes to GitHub
 -
-- ## 2026-02-04
+## 2026-02-04
 - Completed TryHackMe Room08: Extending Your Network
 - Added room notes file
+- Pushed changes to GitHub
+
+## 2026-02-05
+- Completed TryHackMe Room09: DNS in Detail
+- Added room notes file
+- Updated weekly reflection
 - Pushed changes to GitHub
