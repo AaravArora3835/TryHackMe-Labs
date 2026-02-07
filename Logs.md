@@ -49,3 +49,8 @@
 - Added room notes file
 - Updated weekly reflection
 - Pushed changes to GitHub
+
+## 2026-02-06
+- Completed TryHackMe Room10: HTTP in Detail
+- Notes added: Room10_HTTP_in_Detail.md
+- Commit pushed
