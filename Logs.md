@@ -54,3 +54,8 @@
 - Completed TryHackMe Room10: HTTP in Detail
 - Notes added: Room10_HTTP_in_Detail.md
 - Commit pushed
+
+## 2026-02-09
+- Completed TryHackMe Room11: How Websites Work
+- Notes added: Room11_How_Websites_Work.md
+- Commit pushed
