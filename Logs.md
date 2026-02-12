@@ -64,3 +64,8 @@
 - Completed TryHackMe Room12: Putting It All Together
 - Notes added: Room12_Putting_It_All_Together.md
 - Commit pushed
+
+## 2026-02-11
+- Completed TryHackMe Room13: Tutorial
+- Notes added: Room13_Tutorial.md
+- Commit pushed
