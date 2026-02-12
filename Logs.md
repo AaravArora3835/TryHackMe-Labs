@@ -59,3 +59,8 @@
 - Completed TryHackMe Room11: How Websites Work
 - Notes added: Room11_How_Websites_Work.md
 - Commit pushed
+
+## 2026-02-10
+- Completed TryHackMe Room12: Putting It All Together
+- Notes added: Room12_Putting_It_All_Together.md
+- Commit pushed
