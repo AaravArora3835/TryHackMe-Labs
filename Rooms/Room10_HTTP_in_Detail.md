@@ -1,4 +1,4 @@
-# Room ## — DNS In Detail
+# Room 10 — DNS In Detail
 
 **Date:**  2026-02-06
 **Path:** Pre Security  
