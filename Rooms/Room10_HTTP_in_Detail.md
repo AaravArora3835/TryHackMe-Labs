@@ -1,6 +1,6 @@
 # Room ## — DNS In Detail
 
-**Date:**  2026-06-02
+**Date:**  2026-02-06
 **Path:** Pre Security  
 
 ## What I did
