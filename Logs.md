@@ -69,3 +69,9 @@
 - Completed TryHackMe Room13: Tutorial
 - Notes added: Room13_Tutorial.md
 - Commit pushed
+
+## 2026-02-12
+
+- Completed TryHackMe Room14: Linux Fundamentals Part 1
+- Notes added: Room14_Linux_Fundamentals_Part_1.md
+- Commit pushed
