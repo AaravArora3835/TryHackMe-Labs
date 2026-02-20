@@ -1,4 +1,4 @@
-# Room 03 — What is Networking?
+# Room 04 — What is Networking?
 
 **Date:** 2026-01-31  
 **Path:** Pre Security  
