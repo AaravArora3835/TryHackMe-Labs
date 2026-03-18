@@ -1,6 +1,6 @@
 # Room ## — Room Name
 
-**Date:** YYYY-MM-DD  
+**Date:** MM/DD/YYYY
 **Path:** Pre Security  
 
 ## What I did
