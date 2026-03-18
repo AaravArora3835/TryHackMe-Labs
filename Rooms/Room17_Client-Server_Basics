@@ -1,0 +1,16 @@
+# Room ## — Client-Server Basics
+
+**Date:** 3/17/2026
+**Path:** Pre Security  
+
+## What I did
+- We learend the client server model as well as learning about the DNS client server prt porocotl and network
+
+## Key concepts
+- A port is used to idenitfy a specific srevice running on the system. If a client wants a service on the server he must use the correcect port
+- DNS stands for domain name service and works like the gps. It resolves the website to the server location
+- Hypertext Transfer Protocol (Secure) or HTTPS is aclient server protocol used for the world wifde web
+- GET method is used to retire a resource from web server
+
+## One takeaway
+- Learned how to use the get command and fine scheme host and filename which I found intresting.
